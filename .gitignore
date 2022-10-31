@@ -1,0 +1,5 @@
+node_modules
+_mongo_uri.js
+package-lock.json
+yarn.lock
+.DS_Store

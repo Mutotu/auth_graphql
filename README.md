@@ -1,5 +1,3 @@
-# auth-graphql-starter
+# auth_graphql
 
 -run npm install
-# auth_graphql
-# auth_graphql
