@@ -1,5 +1,5 @@
 import React from "react";
 
 export default () => {
-  return <div>lkjhg</div>;
+  return <div>You're logged in.</div>;
 };
