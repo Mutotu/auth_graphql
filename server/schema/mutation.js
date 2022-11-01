@@ -23,7 +23,7 @@ const mutation = new GraphQLObjectType({
       resolve(parentValue, args, req) {
         const { user } = req;
 
-        req.logout;
+        req.logout(() => console.log("logged out"));
         return user;
       },
     },
